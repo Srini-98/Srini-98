@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+* AI Researcher (natural language processing group) at National University of Singapore. I am currently working on large language models for text correction and multi document summarization. I Completed my mastrs in computer science in December 2022 from NUS. 
+* Prior to my current role, I worked at an early stage startup called confetto  where I was the NLP lead and was responsible for developing text generation and classification systems.
+* I 
+
