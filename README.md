@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**Srini-98/Srini-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on large language models for text correction and multi document summarization as an AI Researcher (natural language processing group) at National University of Singapore.
 - 🌱 I’m currently learning Controlnet techniques for stable diffusion and the effectiveness of prompting for large language models.
