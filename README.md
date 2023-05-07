@@ -3,10 +3,12 @@
 
 
 
-- 🔭 I’m currently working on large language models for text correction and multi document summarization as an AI Researcher (natural language processing group) at National University of Singapore.
+- 🔭 I’m currently working on large language models as an AI Researcher (natural language processing group) at National University of Singapore.
+- Some of the projects that I am actively part of or have taken part in are building text to code applications and evaluating LLM's , pretraining multilingual LLMs (Roberta) , text correction and multi document summarization.
 - 🌱 I’m currently learning Controlnet techniques for stable diffusion and the effectiveness of prompting for large language models.
 - 👯 I’m looking to collaborate on generative AI projects that involve working with both text and multi modal systems.
 - 💬 Love to discuss the latest machine learning developments.
+- I used to work as a Full time NLP engineer at https://www.confet.to/. I built the entire NLP stack as well as contributed to building front end features using next.js that are actively in production. 
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srinivasan-nandakumar-978b76114)  [![](https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=gmail)](srini481@gmail.com)
