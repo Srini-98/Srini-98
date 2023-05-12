@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate on generative AI projects that involve working with both text and multi modal systems.
 - 💬 Love to discuss the latest machine learning developments.
 - I used to work as a Full time NLP engineer at https://www.confet.to/. I built the entire NLP stack as well as contributed to building front end features using next.js that are actively in production. 
+- I try my best to keep up with the latest research work in ML/AI. I maintain a document where I summarize papers that I cover on a day to day basis. Kindly the link here. https://docs.google.com/document/d/e/2PACX-1vSSxdJWHns8P2ldDCLbGQHTA_XlpOcipo6orf_7YKzkKdO3II2dDmXczw1D8MPVrf3MSae7WgmWsG_V/pub
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srinivasan-nandakumar-978b76114)  [![](https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=gmail)](srini481@gmail.com)
