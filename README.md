@@ -13,7 +13,6 @@
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srinivasan-nandakumar-978b76114)  [![](https://img.shields.io/badge/gmail-%230077B5.svg?style=for-the-badge&logo=gmail)](srini481@gmail.com)
-![](https://visitor-badge.laobi.icu/badge?page_id=srini-98)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=srini-98&show_icons=true"/> -->
 
