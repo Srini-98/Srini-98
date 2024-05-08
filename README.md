@@ -4,7 +4,8 @@
 
 
 - 🔭 I’m currently working on large language models as an AI Researcher  at National University of Singapore.
-- As a researcher , Some of the projects that I am actively part of or have taken part in are building text to code applications and evaluating LLM's , pretraining multilingual LLMs (Roberta , GPT's) , text correction and multi document summarization.
+- As a researcher , Some of the projects that I am actively part of or have taken part in are building text to code applications and evaluating LLM's , pretraining multilingual LLMs (You can read more in the blog below) , text correction and multi document summarization.
+- I am currently working on Agents and generating synthetic data at scale.
 - 👯 I’m looking to collaborate on generative AI projects that involve working with both text and multi modal systems.
 - 💬 Love to discuss the latest machine learning developments.
 - I used to work as a Full time NLP engineer at an early stage startup. I built the entire NLP stack as well as contributed to building front end features using next.js that are actively in production. 
