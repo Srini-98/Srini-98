@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on large language models as an AI Researcher (natural language processing group) at National University of Singapore.
+- 🔭 I’m currently working on large language models as an AI Researcher  at National University of Singapore.
 - As a researcher , Some of the projects that I am actively part of or have taken part in are building text to code applications and evaluating LLM's , pretraining multilingual LLMs (Roberta , GPT's) , text correction and multi document summarization.
 - 👯 I’m looking to collaborate on generative AI projects that involve working with both text and multi modal systems.
 - 💬 Love to discuss the latest machine learning developments.
@@ -16,6 +16,9 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=srini-98&show_icons=true"/> -->
 
+
+## Blogs
+https://100xcoder.wordpress.com/
 
 ## 🧰 Languages and Tools:
 <p align="center">
