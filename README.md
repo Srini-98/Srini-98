@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on large language models as an AI Researh Engineer.
+- 🔭 I’m currently working on large language models as an AI Research Engineer.
 - As a researcher , Some of the projects that I am actively part of or have taken part in are building text to code applications and evaluating LLM's , pretraining multilingual LLMs (You can read more in the blog below) , text correction and multi document summarization.
 - I am currently working on Agents and generating synthetic tabular data with privacy at scale.
 - 👯 I’m looking to collaborate on generative AI projects that involve working with both text and multi modal systems.
